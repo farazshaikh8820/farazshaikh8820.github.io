@@ -1,0 +1,21 @@
+.main-container{
+    /* height: 100vh; */
+}
+.ul{
+    list-style: none;
+    gap: 20px;
+}
+.p{
+    font-size: 10px;
+}
+    /* nav */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+    /* justify-content: space-between; */
+    /* nav-left */
+    /* display: flex; */
+    /* gap: 17px; */
+    /* color: white; */
+    /* font-size: 10px; */
+    /* nav-med */
